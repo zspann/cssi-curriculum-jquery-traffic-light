@@ -6,10 +6,9 @@ We are going to build a traffic light.
 
 ## Directions
 
-After you open this lab in Nitrous, You'll want to open `index.html` in both the browser and the Nitrous text editor. 
+After you fork and open this lab in your text editor, You'll also want to open `index.html` in  the browser. 
 
-In terminal type: `python -m SimpleHTTPServer 3000`. Go to the Preview at the top of Nitrous and click on `Port 3000 (Default)`. Play around with the buttons and see what they do.
-
+In the browser, play around with the buttons in `index.html` and see what they do.
 
 
 You'll be coding your solution in `script.js`. Open up the file `script.js` file. Fill in code in each of the following sections:

@@ -2,11 +2,11 @@
 
 <img src="https://s3.amazonaws.com/after-school-assets/traffic_light.gif" hspace="10" align="right" width="300px">
 
-We are going to build a traffic light.
+In this lab, we are going to build a traffic light.
 
 ## Directions
 
-After you fork and open this lab in your text editor, You'll also want to open `index.html` in  the browser. 
+After you fork and open this lab in your text editor, you'll also want to open `index.html` in  the browser. 
 
 In the browser, play around with the buttons in `index.html` and see what they do.
 
